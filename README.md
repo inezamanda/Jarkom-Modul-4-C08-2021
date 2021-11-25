@@ -152,3 +152,6 @@ echo nameserver 192.168.122.1 > /etc/resolv.conf
 ```
 echo nameserver 192.168.122.1 > /etc/resolv.conf
 ```
+### Testing
+Jika sudah dilakukan routing maka semua node dalam topologi yang telah kita buat bisa melakukan ping satu sama lain dan ping ke internet
+![2.5](https://github.com/inezamanda/Jarkom-Modul-4-C08-2021/blob/main/assets/DemoModul4.gif?raw=true)
